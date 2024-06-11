@@ -1,0 +1,46 @@
+﻿id,danhMucId,tenVatTu,anhVatTu,moTaVatTu,soLuongTonKho,thuongHieu,mauSac
+1,1,Áo bác sĩ,../../scr/images/khong_co_anh.png,Đồng phục bác sĩ,100,Đồng phục y tế,Trắng
+2,2,Kim tiêm,../../scr/images/khong_co_anh.png,Dụng cụ y tế dùng để tiêm thuốc hoặc lấy mẫu máu,60,Terumo,Trong suốt
+3,2,"Bông, băng gạc",../../scr/images/khong_co_anh.png,Vật tư y tế dùng để cầm máu hoặc xử lý vết thương,150,BSN Medical,Trắng
+4,1,Giường bệnh nhân,../../scr/images/khong_co_anh.png,Giường được dùng cho phòng bệnh ,30,BSN Medical,Xanh lá
+5,1,Máy đo nhịp tim,../../scr/images/khong_co_anh.png,Máy đo nhịp tim bệnh nhân,20,Terumo,Trắng
+6,1,Máy đo huyết áp,../../scr/images/khong_co_anh.png,Máy đo huyết áp cho bệnh nhân,25,Omron,Trắng
+7,1,Máy điện tâm đồ,../../scr/images/khong_co_anh.png,Máy ghi lại hoạt động điện của tim,15,Philips,Trắng
+8,1,Bình oxy,../../scr/images/V08.jpg,Cung cấp oxy cho bệnh nhân,10,Invacare,Xanh dương
+9,1,Giường y tế điều chỉnh,../../scr/images/khong_co_anh.png,Giường y tế có thể điều chỉnh độ cao và vị trí,20,Paramount,Xanh lá
+10,1,Xe lăn y tế,../../scr/images/khong_co_anh.png,Dụng cụ giúp bệnh nhân di chuyển,15,Sunrise Medical,Xanh lá
+11,2,Găng tay y tế,../../scr/images/khong_co_anh.png,Bảo vệ tay khỏi vi khuẩn,100,Medline,Trắng
+12,2,Khẩu trang y tế,../../scr/images/khong_co_anh.png,Bảo vệ đường hô hấp khỏi vi khuẩn,50,3M,Xanh lam
+13,2,Bông gòn y tế,../../scr/images/V13.jpg,Dùng để hút dịch hoặc làm sạch vết thương,50,Covidien,Trắng
+14,2,Băng keo y tế,../../scr/images/V14.jpg,Dùng để băng bó vết thương,100,3M,Trắng
+15,2,Cồn y tế,../../scr/images/khong_co_anh.png,Dùng để sát trùng da,50,Baxter,Trong suốt
+16,1,Máy trợ thính,../../scr/images/khong_co_anh.png,Giúp người khiếm thính nghe rõ hơn,12,Phonak,Trắng
+17,1,Máy đo đường huyết,../../scr/images/khong_co_anh.png,Đo lượng lượng đường trong máu,10,Roche,Trắng
+18,1,Nệm y tế chống loét,../../scr/images/khong_co_anh.png,Giảm nguy cơ loét do tì đè,20,Invacare,Xanh lá
+19,1,Gậy chống trượt,../../scr/images/khong_co_anh.png,Hỗ trợ người già hoặc người khuyết tật di chuyển,15,Sunrise Medical,Xám
+20,1,Xe lăn điện,../../scr/images/khong_co_anh.png,Dụng cụ giúp người khuyết tật di chuyển bằng điện,8,Pride Mobility,Xanh lam
+21,2,Bông băng y tế,../../scr/images/V21.jpg,Dùng để băng bó vết thương,100,3M,Trắng
+22,2,Bông gòn y tế vô trùng,../../scr/images/V22.jpg,Dùng để hút dịch hoặc làm sạch vết thương,50,Covidien,Trắng
+23,2,Gạc y tế vô trùng,../../scr/images/khong_co_anh.png,Dùng để băng bó vết thương,100,3M,Trắng
+24,2,Kim tiêm y tế,../../scr/images/khong_co_anh.png,Dùng để lấy máu hoặc tiêm thuốc,50,BD,Trắng
+25,2,Ống nghiệm y tế,../../scr/images/khong_co_anh.png,Dùng để đựng mẫu máu hoặc dịch cơ thể,100,Corning,Trong suốt
+26,1,Máy giám sát bệnh nhân,../../scr/images/khong_co_anh.png,Theo dõi các dấu hiệu sinh tồn của bệnh nhân,15,Philips,Trắng
+27,1,Máy hút dịch y tế,../../scr/images/khong_co_anh.png,Hút dịch ra khỏi cơ thể,10,Medela,Trắng
+28,1,Bàn khám y tế,../../scr/images/V28.jpg,Dùng để khám bệnh nhân,20,Paramount,Xanh lá
+29,1,Ghế y tế,../../scr/images/khong_co_anh.png,Dùng cho bác sĩ hoặc nhân viên y tế ngồi khi khám bệnh,20,Sunrise Medical,Xám
+30,1,Đèn mổ phẫu thuật,../../scr/images/khong_co_anh.png,Cung cấp ánh sáng cho phẫu thuật,8,Maquet,Trắng
+31,2,Bình xịt khử trùng,../../scr/images/V31.jpg,Khử trùng bề mặt,50,Ecolab,Trắng
+32,2,Găng tay cao su y tế,../../scr/images/khong_co_anh.png,Bảo vệ tay khỏi vi khuẩn,100,Medline,Xanh lam
+33,2,Khẩu trang N95,../../scr/images/khong_co_anh.png,Bảo vệ đường hô hấp khỏi vi khuẩn,20,3M,Trắng
+34,2,Mũ y tế dùng một lần,../../scr/images/khong_co_anh.png,Bảo vệ tóc và da đầu khỏi vi khuẩn,100,3M,Xanh lam
+35,2,Giấy y tế,../../scr/images/khong_co_anh.png,Dùng để lau chùi hoặc thấm dịch,100,Kimberly-Clark,Trắng
+36,1,Máy lọc không khí y tế,../../scr/images/khong_co_anh.png,Lọc sạch bụi bẩn và vi khuẩn trong không khí,12,Philips,Trắng
+37,1,Máy tạo oxy y tế,../../scr/images/khong_co_anh.png,Cung cấp oxy cho bệnh nhân hô hấp,8,Invacare,Xanh dương
+38,1,Giường y tế đa chức năng,../../scr/images/khong_co_anh.png,"Giường y tế có thể điều chỉnh độ cao, vị trí và tư thế",15,Paramount,Xanh lá
+39,1,Xe đẩy y tế,../../scr/images/khong_co_anh.png,Dùng để vận chuyển bệnh nhân hoặc dụng cụ y tế,10,Sunrise Medical,Xám
+40,1,Tủ lạnh y tế,../../scr/images/khong_co_anh.png,Bảo quản thuốc và các sản phẩm y tế,8,Haier,Trắng
+41,2,Bọc giầy y tế,../../scr/images/khong_co_anh.png,Bảo vệ giày khỏi vi khuẩn,100,3M,Xanh lam
+42,2,Mặt nạ y tế,../../scr/images/khong_co_anh.png,Bảo vệ đường hô hấp khỏi vi khuẩn,50,3M,Xanh lam
+43,2,Băng cá nhân,../../scr/images/V43.jfif,Dùng để băng bó vết thương nhỏ,100,3M,Trắng
+44,2,Bông băng cuộn,../../scr/images/V44.jpg,Dùng để băng bó vết thương lớn,50,Covidien,Trắng
+45,2,Gạc rơ lưỡi y tế,../../scr/images/khong_co_anh.png,Vệ sinh khoang miệng cho bệnh nhân,100,Covidien,Trắng

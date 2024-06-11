@@ -1,0 +1,10 @@
+1,Máy lọc không khí y tế,/scr/images/V36.jpg,Lọc sạch bụi bẩn và vi khuẩn trong không khí,12,Philips,Trắng
+1,Máy tạo oxy y tế,/scr/images/V37.jpg,Cung cấp oxy cho bệnh nhân hô hấp,8,Invacare,Xanh dương
+1,Giường y tế đa chức năng,/scr/images/V38.jpg,Giường y tế có thể điều chỉnh độ cao, vị trí và tư thế,15,Paramount,Xanh lá
+1,Xe đẩy y tế,/scr/images/V39.jpg,Dùng để vận chuyển bệnh nhân hoặc dụng cụ y tế,10,Sunrise Medical,Xám
+1,Tủ lạnh y tế,/scr/images/V40.jpg,Bảo quản thuốc và các sản phẩm y tế,8,Haier,Trắng
+2,Bọc giầy y tế,/scr/images/V41.jpg,Bảo vệ giày khỏi vi khuẩn,100,3M,Xanh lam
+2,Mặt nạ y tế,/scr/images/V42.jpg,Bảo vệ đường hô hấp khỏi vi khuẩn,50,3M,Xanh lam
+2,Băng cá nhân,/scr/images/V43.jpg,Dùng để băng bó vết thương nhỏ,100,3M,Trắng
+2,Bông băng cuộn,/scr/images/V44.jpg,Dùng để băng bó vết thương lớn,50,Covidien,Trắng
+2,Gạc rơ lưỡi y tế,/scr/images/V45.jpg,Vệ sinh khoang miệng cho bệnh nhân,100,Covidien,Trắng

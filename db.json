@@ -1,0 +1,559 @@
+{
+  "vatTus": [
+    {
+      "id": 1,
+      "danhMucId": 1,
+      "tenVatTu": "Áo bác sĩ",
+      "anhVatTu": "../../scr/images/khong_co_anh.png",
+      "moTaVatTu": "Đồng phục bác sĩ",
+      "soLuongTonKho": 100,
+      "thuongHieu": "Đồng phục y tế",
+      "mauSac": "Trắng"
+    },
+    {
+      "id": 2,
+      "danhMucId": 2,
+      "tenVatTu": "Kim tiêm",
+      "anhVatTu": "../../scr/images/khong_co_anh.png",
+      "moTaVatTu": "Dụng cụ y tế dùng để tiêm thuốc hoặc lấy mẫu máu",
+      "soLuongTonKho": 60,
+      "thuongHieu": "Terumo",
+      "mauSac": "Trong suốt"
+    },
+    {
+      "tenVatTu": "Bông, băng gạc",
+      "moTaVatTu": "Vật tư y tế dùng để cầm máu hoặc xử lý vết thương",
+      "danhMucId": "2",
+      "soLuongTonKho": "150",
+      "thuongHieu": "BSN Medical",
+      "mauSac": "Trắng",
+      "anhVatTu": "../../scr/images/khong_co_anh.png",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "danhMucId": 1,
+      "tenVatTu": "Giường bệnh nhân",
+      "anhVatTu": "../../scr/images/khong_co_anh.png",
+      "moTaVatTu": "Giường được dùng cho phòng bệnh",
+      "soLuongTonKho": 30,
+      "thuongHieu": "BSN Medical",
+      "mauSac": "Xanh lá"
+    },
+    {
+      "id": 5,
+      "danhMucId": 1,
+      "tenVatTu": "Máy đo nhịp tim",
+      "anhVatTu": "../../scr/images/khong_co_anh.png",
+      "moTaVatTu": "Máy đo nhịp tim bệnh nhân",
+      "soLuongTonKho": 20,
+      "thuongHieu": "Terumo",
+      "mauSac": "Trắng"
+    },
+    {
+      "id": 6,
+      "danhMucId": 1,
+      "tenVatTu": "Máy đo huyết áp",
+      "anhVatTu": "../../scr/images/khong_co_anh.png",
+      "moTaVatTu": "Máy đo huyết áp cho bệnh nhân",
+      "soLuongTonKho": 25,
+      "thuongHieu": "Omron",
+      "mauSac": "Trắng"
+    },
+    {
+      "id": 7,
+      "danhMucId": 1,
+      "tenVatTu": "Máy điện tâm đồ",
+      "anhVatTu": "../../scr/images/khong_co_anh.png",
+      "moTaVatTu": "Máy ghi lại hoạt động điện của tim",
+      "soLuongTonKho": 15,
+      "thuongHieu": "Philips",
+      "mauSac": "Trắng"
+    },
+    {
+      "tenVatTu": "Bình oxy",
+      "moTaVatTu": "Cung cấp oxy cho bệnh nhân",
+      "danhMucId": "1",
+      "soLuongTonKho": "10",
+      "thuongHieu": "Invacare",
+      "mauSac": "Xanh dương",
+      "anhVatTu": "../../scr/images/V08.jpg",
+      "id": 8
+    },
+    {
+      "id": 9,
+      "danhMucId": 1,
+      "tenVatTu": "Giường y tế điều chỉnh",
+      "anhVatTu": "../../scr/images/khong_co_anh.png",
+      "moTaVatTu": "Giường y tế có thể điều chỉnh độ cao và vị trí",
+      "soLuongTonKho": 20,
+      "thuongHieu": "Paramount",
+      "mauSac": "Xanh lá"
+    },
+    {
+      "id": 10,
+      "danhMucId": 1,
+      "tenVatTu": "Xe lăn y tế",
+      "anhVatTu": "../../scr/images/khong_co_anh.png",
+      "moTaVatTu": "Dụng cụ giúp bệnh nhân di chuyển",
+      "soLuongTonKho": 15,
+      "thuongHieu": "Sunrise Medical",
+      "mauSac": "Xanh lá"
+    },
+    {
+      "id": 11,
+      "danhMucId": 2,
+      "tenVatTu": "Găng tay y tế",
+      "anhVatTu": "../../scr/images/khong_co_anh.png",
+      "moTaVatTu": "Bảo vệ tay khỏi vi khuẩn",
+      "soLuongTonKho": 100,
+      "thuongHieu": "Medline",
+      "mauSac": "Trắng"
+    },
+    {
+      "id": 12,
+      "danhMucId": 2,
+      "tenVatTu": "Khẩu trang y tế",
+      "anhVatTu": "../../scr/images/khong_co_anh.png",
+      "moTaVatTu": "Bảo vệ đường hô hấp khỏi vi khuẩn",
+      "soLuongTonKho": 50,
+      "thuongHieu": "3M",
+      "mauSac": "Xanh lam"
+    },
+    {
+      "id": 13,
+      "danhMucId": 2,
+      "tenVatTu": "Bông gòn y tế",
+      "anhVatTu": "../../scr/images/V13.jpg",
+      "moTaVatTu": "Dùng để hút dịch hoặc làm sạch vết thương",
+      "soLuongTonKho": 50,
+      "thuongHieu": "Covidien",
+      "mauSac": "Trắng"
+    },
+    {
+      "id": 14,
+      "danhMucId": 2,
+      "tenVatTu": "Băng keo y tế",
+      "anhVatTu": "../../scr/images/V14.jpg",
+      "moTaVatTu": "Dùng để băng bó vết thương",
+      "soLuongTonKho": 100,
+      "thuongHieu": "3M",
+      "mauSac": "Trắng"
+    },
+    {
+      "id": 15,
+      "danhMucId": 2,
+      "tenVatTu": "Cồn y tế",
+      "anhVatTu": "../../scr/images/khong_co_anh.png",
+      "moTaVatTu": "Dùng để sát trùng da",
+      "soLuongTonKho": 50,
+      "thuongHieu": "Baxter",
+      "mauSac": "Trong suốt"
+    },
+    {
+      "id": 16,
+      "danhMucId": 1,
+      "tenVatTu": "Máy trợ thính",
+      "anhVatTu": "../../scr/images/khong_co_anh.png",
+      "moTaVatTu": "Giúp người khiếm thính nghe rõ hơn",
+      "soLuongTonKho": 12,
+      "thuongHieu": "Phonak",
+      "mauSac": "Trắng"
+    },
+    {
+      "id": 17,
+      "danhMucId": 1,
+      "tenVatTu": "Máy đo đường huyết",
+      "anhVatTu": "../../scr/images/khong_co_anh.png",
+      "moTaVatTu": "Đo lượng lượng đường trong máu",
+      "soLuongTonKho": 10,
+      "thuongHieu": "Roche",
+      "mauSac": "Trắng"
+    },
+    {
+      "id": 18,
+      "danhMucId": 1,
+      "tenVatTu": "Nệm y tế chống loét",
+      "anhVatTu": "../../scr/images/khong_co_anh.png",
+      "moTaVatTu": "Giảm nguy cơ loét do tì đè",
+      "soLuongTonKho": 20,
+      "thuongHieu": "Invacare",
+      "mauSac": "Xanh lá"
+    },
+    {
+      "id": 19,
+      "danhMucId": 1,
+      "tenVatTu": "Gậy chống trượt",
+      "anhVatTu": "../../scr/images/khong_co_anh.png",
+      "moTaVatTu": "Hỗ trợ người già hoặc người khuyết tật di chuyển",
+      "soLuongTonKho": 15,
+      "thuongHieu": "Sunrise Medical",
+      "mauSac": "Xám"
+    },
+    {
+      "id": 20,
+      "danhMucId": 1,
+      "tenVatTu": "Xe lăn điện",
+      "anhVatTu": "../../scr/images/khong_co_anh.png",
+      "moTaVatTu": "Dụng cụ giúp người khuyết tật di chuyển bằng điện",
+      "soLuongTonKho": 8,
+      "thuongHieu": "Pride Mobility",
+      "mauSac": "Xanh lam"
+    },
+    {
+      "id": 21,
+      "danhMucId": 2,
+      "tenVatTu": "Bông băng y tế",
+      "anhVatTu": "../../scr/images/V21.jpg",
+      "moTaVatTu": "Dùng để băng bó vết thương",
+      "soLuongTonKho": 100,
+      "thuongHieu": "3M",
+      "mauSac": "Trắng"
+    },
+    {
+      "id": 22,
+      "danhMucId": 2,
+      "tenVatTu": "Bông gòn y tế vô trùng",
+      "anhVatTu": "../../scr/images/V22.jpg",
+      "moTaVatTu": "Dùng để hút dịch hoặc làm sạch vết thương",
+      "soLuongTonKho": 50,
+      "thuongHieu": "Covidien",
+      "mauSac": "Trắng"
+    },
+    {
+      "id": 23,
+      "danhMucId": 2,
+      "tenVatTu": "Gạc y tế vô trùng",
+      "anhVatTu": "../../scr/images/khong_co_anh.png",
+      "moTaVatTu": "Dùng để băng bó vết thương",
+      "soLuongTonKho": 100,
+      "thuongHieu": "3M",
+      "mauSac": "Trắng"
+    },
+    {
+      "id": 24,
+      "danhMucId": 2,
+      "tenVatTu": "Kim tiêm y tế",
+      "anhVatTu": "../../scr/images/khong_co_anh.png",
+      "moTaVatTu": "Dùng để lấy máu hoặc tiêm thuốc",
+      "soLuongTonKho": 50,
+      "thuongHieu": "BD",
+      "mauSac": "Trắng"
+    },
+    {
+      "id": 25,
+      "danhMucId": 2,
+      "tenVatTu": "Ống nghiệm y tế",
+      "anhVatTu": "../../scr/images/khong_co_anh.png",
+      "moTaVatTu": "Dùng để đựng mẫu máu hoặc dịch cơ thể",
+      "soLuongTonKho": 100,
+      "thuongHieu": "Corning",
+      "mauSac": "Trong suốt"
+    },
+    {
+      "id": 26,
+      "danhMucId": 1,
+      "tenVatTu": "Máy giám sát bệnh nhân",
+      "anhVatTu": "../../scr/images/khong_co_anh.png",
+      "moTaVatTu": "Theo dõi các dấu hiệu sinh tồn của bệnh nhân",
+      "soLuongTonKho": 15,
+      "thuongHieu": "Philips",
+      "mauSac": "Trắng"
+    },
+    {
+      "id": 27,
+      "danhMucId": 1,
+      "tenVatTu": "Máy hút dịch y tế",
+      "anhVatTu": "../../scr/images/khong_co_anh.png",
+      "moTaVatTu": "Hút dịch ra khỏi cơ thể",
+      "soLuongTonKho": 10,
+      "thuongHieu": "Medela",
+      "mauSac": "Trắng"
+    },
+    {
+      "tenVatTu": "Bàn khám y tế",
+      "moTaVatTu": "Dùng để khám bệnh nhân",
+      "danhMucId": "1",
+      "soLuongTonKho": "20",
+      "thuongHieu": "Paramount",
+      "mauSac": "Xanh lá",
+      "anhVatTu": "../../scr/images/V28.jpg",
+      "id": 28
+    },
+    {
+      "id": 29,
+      "danhMucId": 1,
+      "tenVatTu": "Ghế y tế",
+      "anhVatTu": "../../scr/images/khong_co_anh.png",
+      "moTaVatTu": "Dùng cho bác sĩ hoặc nhân viên y tế ngồi khi khám bệnh",
+      "soLuongTonKho": 20,
+      "thuongHieu": "Sunrise Medical",
+      "mauSac": "Xám"
+    },
+    {
+      "id": 30,
+      "danhMucId": 1,
+      "tenVatTu": "Đèn mổ phẫu thuật",
+      "anhVatTu": "../../scr/images/khong_co_anh.png",
+      "moTaVatTu": "Cung cấp ánh sáng cho phẫu thuật",
+      "soLuongTonKho": 8,
+      "thuongHieu": "Maquet",
+      "mauSac": "Trắng"
+    },
+    {
+      "id": 31,
+      "danhMucId": 2,
+      "tenVatTu": "Bình xịt khử trùng",
+      "anhVatTu": "../../scr/images/V31.jpg",
+      "moTaVatTu": "Khử trùng bề mặt",
+      "soLuongTonKho": 50,
+      "thuongHieu": "Ecolab",
+      "mauSac": "Trắng"
+    },
+    {
+      "id": 32,
+      "danhMucId": 2,
+      "tenVatTu": "Găng tay cao su y tế",
+      "anhVatTu": "../../scr/images/khong_co_anh.png",
+      "moTaVatTu": "Bảo vệ tay khỏi vi khuẩn",
+      "soLuongTonKho": 100,
+      "thuongHieu": "Medline",
+      "mauSac": "Xanh lam"
+    },
+    {
+      "id": 33,
+      "danhMucId": 2,
+      "tenVatTu": "Khẩu trang N95",
+      "anhVatTu": "../../scr/images/khong_co_anh.png",
+      "moTaVatTu": "Bảo vệ đường hô hấp khỏi vi khuẩn",
+      "soLuongTonKho": 20,
+      "thuongHieu": "3M",
+      "mauSac": "Trắng"
+    },
+    {
+      "id": 34,
+      "danhMucId": 2,
+      "tenVatTu": "Mũ y tế dùng một lần",
+      "anhVatTu": "../../scr/images/khong_co_anh.png",
+      "moTaVatTu": "Bảo vệ tóc và da đầu khỏi vi khuẩn",
+      "soLuongTonKho": 100,
+      "thuongHieu": "3M",
+      "mauSac": "Xanh lam"
+    },
+    {
+      "id": 35,
+      "danhMucId": 2,
+      "tenVatTu": "Giấy y tế",
+      "anhVatTu": "../../scr/images/khong_co_anh.png",
+      "moTaVatTu": "Dùng để lau chùi hoặc thấm dịch",
+      "soLuongTonKho": 100,
+      "thuongHieu": "Kimberly-Clark",
+      "mauSac": "Trắng"
+    },
+    {
+      "id": 36,
+      "danhMucId": 1,
+      "tenVatTu": "Máy lọc không khí y tế",
+      "anhVatTu": "../../scr/images/khong_co_anh.png",
+      "moTaVatTu": "Lọc sạch bụi bẩn và vi khuẩn trong không khí",
+      "soLuongTonKho": 12,
+      "thuongHieu": "Philips",
+      "mauSac": "Trắng"
+    },
+    {
+      "id": 37,
+      "danhMucId": 1,
+      "tenVatTu": "Máy tạo oxy y tế",
+      "anhVatTu": "../../scr/images/khong_co_anh.png",
+      "moTaVatTu": "Cung cấp oxy cho bệnh nhân hô hấp",
+      "soLuongTonKho": 8,
+      "thuongHieu": "Invacare",
+      "mauSac": "Xanh dương"
+    },
+    {
+      "id": 38,
+      "danhMucId": 1,
+      "tenVatTu": "Giường y tế đa chức năng",
+      "anhVatTu": "../../scr/images/khong_co_anh.png",
+      "moTaVatTu": "Giường y tế có thể điều chỉnh độ cao, vị trí và tư thế",
+      "soLuongTonKho": 15,
+      "thuongHieu": "Paramount",
+      "mauSac": "Xanh lá"
+    },
+    {
+      "id": 39,
+      "danhMucId": 1,
+      "tenVatTu": "Xe đẩy y tế",
+      "anhVatTu": "../../scr/images/khong_co_anh.png",
+      "moTaVatTu": "Dùng để vận chuyển bệnh nhân hoặc dụng cụ y tế",
+      "soLuongTonKho": 10,
+      "thuongHieu": "Sunrise Medical",
+      "mauSac": "Xám"
+    },
+    {
+      "id": 40,
+      "danhMucId": 1,
+      "tenVatTu": "Tủ lạnh y tế",
+      "anhVatTu": "../../scr/images/khong_co_anh.png",
+      "moTaVatTu": "Bảo quản thuốc và các sản phẩm y tế",
+      "soLuongTonKho": 8,
+      "thuongHieu": "Haier",
+      "mauSac": "Trắng"
+    },
+    {
+      "id": 41,
+      "danhMucId": 2,
+      "tenVatTu": "Bọc giầy y tế",
+      "anhVatTu": "../../scr/images/khong_co_anh.png",
+      "moTaVatTu": "Bảo vệ giày khỏi vi khuẩn",
+      "soLuongTonKho": 100,
+      "thuongHieu": "3M",
+      "mauSac": "Xanh lam"
+    },
+    {
+      "id": 42,
+      "danhMucId": 2,
+      "tenVatTu": "Mặt nạ y tế",
+      "anhVatTu": "../../scr/images/khong_co_anh.png",
+      "moTaVatTu": "Bảo vệ đường hô hấp khỏi vi khuẩn",
+      "soLuongTonKho": 50,
+      "thuongHieu": "3M",
+      "mauSac": "Xanh lam"
+    },
+    {
+      "id": 43,
+      "danhMucId": 2,
+      "tenVatTu": "Băng cá nhân",
+      "anhVatTu": "../../scr/images/V43.jfif",
+      "moTaVatTu": "Dùng để băng bó vết thương nhỏ",
+      "soLuongTonKho": 100,
+      "thuongHieu": "3M",
+      "mauSac": "Trắng"
+    },
+    {
+      "id": 44,
+      "danhMucId": 2,
+      "tenVatTu": "Bông băng cuộn",
+      "anhVatTu": "../../scr/images/V44.jpg",
+      "moTaVatTu": "Dùng để băng bó vết thương lớn",
+      "soLuongTonKho": 50,
+      "thuongHieu": "Covidien",
+      "mauSac": "Trắng"
+    },
+    {
+      "id": 45,
+      "danhMucId": 2,
+      "tenVatTu": "Gạc rơ lưỡi y tế",
+      "anhVatTu": "../../scr/images/khong_co_anh.png",
+      "moTaVatTu": "Vệ sinh khoang miệng cho bệnh nhân",
+      "soLuongTonKho": 100,
+      "thuongHieu": "Covidien",
+      "mauSac": "Trắng"
+    }
+  ],
+  "danhMucs": [
+    {
+      "id": 1,
+      "tenDanhMuc": "Vật tư không tiêu hao"
+    },
+    {
+      "id": 2,
+      "tenDanhMuc": "Vật tư tiêu hao"
+    }
+  ],
+  "nhanSus": [
+    {
+      "id": 1,
+      "phongBanId": 1,
+      "tenNhanSu": "Đoàn Trung Hiếu",
+      "gioiTinh": "Nam",
+      "ngaySinh": "1981-11-13",
+      "soDienThoai": "0332546754",
+      "email": "trunghieu@gmail.com",
+      "chucVu": "Bác sĩ",
+      "queQuan": "Đống Đa - Hà Nội",
+      "tenTaiKhoan": "dthieu",
+      "matKhau": 1722,
+      "role": "user"
+    },
+    {
+      "tenNhanSu": "Hoàng Anh Quân",
+      "phongBanId": "2",
+      "gioiTinh": "Nam",
+      "ngaySinh": "1981-02-20",
+      "soDienThoai": "0342276578",
+      "email": "anhquan@gmail.com",
+      "chucVu": "Bác sĩ",
+      "queQuan": "Cát Bà- Hải Phòng",
+      "id": 2,
+      "tenTaiKhoan": "haquan",
+      "matKhau": "1722",
+      "role": "user"
+    },
+    {
+      "id": 3,
+      "phongBanId": 3,
+      "tenNhanSu": "Nguyễn Thị Hòa",
+      "gioiTinh": "Nữ",
+      "ngaySinh": "1990-06-30",
+      "soDienThoai": "0332554675",
+      "email": "hoanguyen@gmail.com",
+      "chucVu": "Y tá",
+      "queQuan": "Phú Bình - Thái Nguyên",
+      "tenTaiKhoan": "nthoa",
+      "matKhau": 1722,
+      "role": "user"
+    },
+    {
+      "id": 4,
+      "phongBanId": 5,
+      "tenNhanSu": "Lê Công Thành",
+      "gioiTinh": "Nam",
+      "ngaySinh": "2002-02-02",
+      "soDienThoai": "0834361811",
+      "email": "lcthanh.htvn@gmail.com",
+      "chucVu": "Trưởng phòng Vật tư",
+      "queQuan": "Kỳ Anh - Hà Tĩnh",
+      "tenTaiKhoan": "lcthanh",
+      "matKhau": "1722",
+      "role": "admin"
+    }
+  ],
+  "phongBans": [
+    {
+      "tenPhongBan": "Phòng khám bệnh và cấp cứu",
+      "chuyenNganh": "Khám bệnh và cấp cứu",
+      "vatTuChoMuon": "45",
+      "vatTuHienTai": "105",
+      "id": 1
+    },
+    {
+      "tenPhongBan": "Phòng điều trị nội trú",
+      "chuyenNganh": "Khoa nội tổng quát, khoa sản, khoa nhi",
+      "vatTuChoMuon": "55",
+      "vatTuHienTai": "150",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "tenPhongBan": "Phòng xét nghiệm và chuẩn đoán",
+      "chuyenNganh": "Xét nghiệm",
+      "vatTuChoMuon": 57,
+      "vatTuHienTai": 170
+    },
+    {
+      "tenPhongBan": "Phòng hành chính",
+      "chuyenNganh": "Tài chính-kế toán",
+      "vatTuChoMuon": "27",
+      "vatTuHienTai": "205",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "tenPhongBan": "Phòng Vật tư - Trang thiết bị",
+      "chuyenNganh": "Quản lý Vật tư - Trang thiết bị",
+      "vatTuChoMuon": 15,
+      "vatTuHienTai": 97
+    }
+  ]
+}

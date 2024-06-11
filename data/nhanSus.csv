@@ -1,0 +1,5 @@
+﻿id,phongBanId,tenNhanSu,gioiTinh,ngaySinh,soDienThoai,email,chucVu,queQuan,tenTaiKhoan,matKhau,role
+1,1,Đoàn Trung Hiếu,Nam,1981-11-13,0332546754,trunghieu@gmail.com,Bác sĩ,Đống Đa - Hà Nội,dthieu,1722,user
+2,2,Hoàng Anh Quân,Nam,22/02/1981,0342276578,anhquan@gmail.com,Bác sĩ,Cát Bà- Hải Phòng,haquan,1722,user
+3,3,Nguyễn Thị Hòa,Nữ,30/06/1990,0332554675,hoanguyen@gmail.com,Y tá,Phú Bình - Thái Nguyên,nthoa,1722,user
+4,5,Lê Công Thành,Nam,02/02/2003,0834361811,lcthanh.htvn@gmail.com,Trưởng phòng Vật tư,Kỳ Anh - Hà Tĩnh,lcthanh,1722,admin

@@ -5,12 +5,15 @@ $(document).ready(function () {
         $('header').toggleClass('nav-disabled')
     })
 
-    // $('#nav-toggle-btn').toggle(
-    //     function () {
-    //         $('#nav').animate({ left: 0 })
-    //     },
-    //     function () {
-    //         $('#nav').animate({ left: '200px' })
-    //     }
-    // )
+    // $('.nav-item-child').hide()
+    $('.nav-item-parent').on('click', function() {
+        $('.nav-item-child').slideToggle();
+
+        if ($('.fa-caret-up').length) {
+            $('.caret').html('<i class="fa-solid fa-caret-down" style="align-content: center;"></i>')
+        }
+        else {
+            $('.caret').html('<i class="fa-solid fa-caret-up" style="align-content: center;"></i>')
+        }
+    })
 })

@@ -1,0 +1,22 @@
+@import url(../../style.css);
+@import url(../../bootstrap-5.3.3-dist/css/bootstrap.css);
+
+#taiKhoansTable {
+    font-size: small;
+}
+
+#taiKhoansTable thead th {
+    color: var(--primary-color);
+}
+
+#taiKhoansTable tfoot th {
+    color: var(--primary-color);
+}
+
+#taiKhoansTable tbody td {
+    vertical-align: middle;
+}
+
+#editVatTuModal label:not(.btn-group label) {
+    color: var(--primary-color);
+}

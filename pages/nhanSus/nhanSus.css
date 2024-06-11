@@ -1,0 +1,18 @@
+@import url(../../style.css);
+@import url(../../bootstrap-5.3.3-dist/css/bootstrap.css);
+
+#nhanSusTable {
+    font-size: small;
+}
+
+#nhanSusTable thead th {
+    color: var(--primary-color);
+}
+
+#nhanSusTable tfoot th {
+    color: var(--primary-color);
+}
+
+#editVatTuModal label:not(.btn-group label) {
+    color: var(--primary-color);
+}
